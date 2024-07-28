@@ -1,2 +1,2 @@
-npm install or npm i
-npm start
+// npm install or npm i
+// npm start
