@@ -1,2 +1,6 @@
-// npm install or npm i
-// npm start
+# My Vite React Project
+
+## Installation
+
+```sh
+npm install
